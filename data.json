@@ -1,6 +1,9 @@
 {
   "salesRecords": [],
   "monthlyPlans": {},
-  "employees": ["Михаил", "Александр"],
+  "employees": [
+    "Михаил",
+    "Александр"
+  ],
   "storeName": "Магазин"
 }
